@@ -179,3 +179,7 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+![snake gif](https://github.com/BlueDevDreamy/BlueDevDreamy/blob/output/github-contribution-grid-snake.svg)
