@@ -149,6 +149,7 @@
 </table>
 
 <br>
+<h2 align="left" id="macropower-tech" > </h2>
 
 238 contributions in the last year
 ![GitHub Snake Light](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/main/git-contribution-2024-09-24-light.png#gh-light-mode-only)
