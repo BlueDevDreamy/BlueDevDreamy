@@ -145,5 +145,8 @@
 
 <br>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+ ![GitHub Snake Light](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/main/git-contribution--2024-09-24-light.pngg#gh-light-mode-only)
+ ![GitHub Snake dark](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/main/git-contribution-2024-09-24.png#gh-dark-mode-only)
+ 
+ <!-- ![GitHub Snake Light](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+ <!-- ![GitHub Snake dark](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
