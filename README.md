@@ -6,7 +6,12 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 alt="Creative Dream's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0&title_color=000000&icon_color=000000&text_color=000000&hide=Jupyter%20Notebook,Roff" />
+    <img alt="github-snake" src="" />
+  </picture>
+  <!-- <img height=200 alt="Creative Dream's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/> -->
 </a>
   
 <!-- <a href="#bluedevdreamy-title">
