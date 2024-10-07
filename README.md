@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20...;Creative%20Algotithm%20...;Android%20Expert%20...&font=Fira%20Code&center=true&width=720&height=72&color=1467dd&vCenter=true&pause=600&size=32" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
     <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0&title_color=000000&icon_color=000000&text_color=000000&hide=Jupyter%20Notebook,Roff" />
     <img alt="github-snake" src="" />
-  </picture>
+  </picture> -->
   <!-- <img height=200 alt="Creative Dream's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnsonmoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/> -->
-</a>
+<!-- </a> -->
   
 <!-- <a href="#bluedevdreamy-title">
   <img width=360 height=200 src="https://raw.githubusercontent.com/BlueDevDreamy/github-stats-transparent/output/generated/overview.svg" alt="bluedevdreamy" align="right" />
