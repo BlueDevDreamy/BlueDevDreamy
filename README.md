@@ -151,7 +151,6 @@
 <h2 align="left" id="macropower-tech" > </h2>
 <br>
 
-1329 contributions in the last year
 ![GitHub Snake Light](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/main/git-contribution-2026-02-11-light.png#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/BlueDevDreamy/BlueDevDreamy/main/git-contribution-2026-02-11-dark.png#gh-dark-mode-only)
  
